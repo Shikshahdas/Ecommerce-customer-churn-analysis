@@ -1,0 +1,4 @@
+acquisition_channel,customers,churned_customers,avg_orders,avg_support_tickets,churn_rate_pct
+Marketplace,457,243,6.229759299781182,1.188183807439825,53.17
+Mobile App,955,491,5.968586387434555,1.156020942408377,51.41
+Website,1088,547,6.085477941176471,1.2040441176470589,50.28
