@@ -1,0 +1,2 @@
+total_customers,churned_customers,churn_rate_pct,retention_rate_pct,average_order_value,average_recency_days
+2500,1281,51.24,48.76,68.98,91.23
